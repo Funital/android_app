@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RaMi</string>
+    <string name="msg">안녕하세요!</string>
+    <string name="msg_negative">안녕하지 않으세요?</string>
+</resources>
